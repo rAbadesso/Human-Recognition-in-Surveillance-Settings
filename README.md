@@ -1,1 +1,1 @@
-# Projeto_Licenciatura
+# Human Recognition in Surveillance Settings
