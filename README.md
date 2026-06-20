@@ -4,8 +4,6 @@
 > *Author:* Ruben Filipe Nascimento Abadesso\
 > *Institution:* Universidade da Beira Interior (UBI)
 
-This repository contains the code and documentation for the project on human recognition in surveillance environments, developed at Universidade da Beira Interior (UBI).
-
 ## Overview
 Recognizing individuals in video surveillance is a significant challenge due to poor image quality, low resolution, varying lighting, and occlusions. This project focuses on an unsupervised Deep Learning approach to translate low-quality surveillance facial images into high-quality images to facilitate easier recognition. 
 
