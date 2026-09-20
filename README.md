@@ -10,9 +10,9 @@ Recognizing individuals in video surveillance is a significant challenge due to 
 ## Project Structure
 The project explores three distinct deep learning approaches to map low-quality inputs to their high-quality ground truths. The experiments are documented in the following notebooks:
 
-* **`1_Abordagem_U-Net.ipynb`**: Initial baseline approach using a standard U-Net Encoder-Decoder architecture.
-* **`2_Abordagem_Pix2pix.ipynb`**: Advanced approach employing a Conditional Generative Adversarial Network (cGAN) based on the Pix2Pix architecture.
-* **`3_Abordagem_Pix2pix_headpose.ipynb`**: The final and most effective model, combining the Pix2Pix architecture with mapped head pose data (Yaw, Pitch, Roll) for superior image translation.
+* **`train/1_Abordagem_U-Net.ipynb`**: Initial baseline approach using a standard U-Net Encoder-Decoder architecture.
+* **`train/2_Abordagem_Pix2pix.ipynb`**: Advanced approach employing a Conditional Generative Adversarial Network (cGAN) based on the Pix2Pix architecture.
+* **`train/3_Abordagem_Pix2pix_headpose.ipynb`**: The final and most effective model, combining the Pix2Pix architecture with mapped head pose data (Yaw, Pitch, Roll) for superior image translation.
 
 ## Documentation
 For a comprehensive overview of the motivation, synchronized dataset collection, methodology, and visual comparisons of the results, please consult the full report:
